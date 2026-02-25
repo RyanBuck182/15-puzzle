@@ -8,6 +8,6 @@ Put them in numerical sequence to win!
 
 Can also use arrow keys or WASD instead of clicking.
 
-[Click here to play!](https://ryanbuck182.github.io/15Puzzle/)
+[Click here to play!](https://ryanbuck182.github.io/15-puzzle/)
 
 Testing this game made me ~~really~~ fairly good at 15 puzzles.
