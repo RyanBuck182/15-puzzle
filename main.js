@@ -361,6 +361,10 @@ function swap(array, index1, index2) {
 
 // Allow tile sliding using arrow keys
 addEventListener("keydown", e => {
+    //don't move tiles when puzzle size selector is active
+    if (document.activeElement === puzzleSizeSelector)
+        return;
+
     let moveIndex = -1;
 
     switch(e.key) {
